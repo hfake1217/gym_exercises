@@ -20,6 +20,9 @@ const Exercises = ({ exercises, setExercises, bodyPart}) => {
           <ExerciseCard key={index} exercise={exercise} />
         ))}
       </Stack>
+      <Stack>
+        
+      </Stack>
     </Box>
   )
 }
